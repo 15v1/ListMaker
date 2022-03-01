@@ -1,4 +1,2 @@
-# ListMaker
-this code maybe will help the beginner to understand python 
-*also donot forget to install this :
-pip install colorama
+ListMaker v1 => Python auto save to list.txt
+ListMaker v2 => C# output the users 
